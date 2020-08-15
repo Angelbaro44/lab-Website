@@ -1,0 +1,32 @@
+.fullWidth{
+      width:100%;
+      background-color: aqua;
+}
+.thirdWidth{
+      width:75%;
+      background-color: aqua;
+}
+.halfWidth{
+      width:50%;
+      background-color: aqua;
+}
+.forthWidth{
+      width:25%;
+      background-color: aqua;
+}
+
+.flexRow{
+      display: flex;
+      justify-content: space-around;
+
+}
+.flexColumn{
+      display: flex;
+      justify-content: space-around;
+      flex-direction: column;
+
+}
+
+.someMargin{
+      margin: 10px;
+}
